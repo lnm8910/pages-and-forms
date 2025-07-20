@@ -11,7 +11,7 @@ export default function Home() {
           
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
             Our user-friendly registration application makes it simple to collect and manage user information. 
-            Whether you're organizing an event, building a membership database, or gathering contact details, 
+            Whether you&apos;re organizing an event, building a membership database, or gathering contact details, 
             our streamlined process ensures a smooth experience for both you and your users.
           </p>
 
@@ -24,7 +24,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-900">Simple Form Interface</h3>
-                  <p className="text-gray-600 text-sm">Clean, intuitive design that's easy to navigate</p>
+                  <p className="text-gray-600 text-sm">Clean, intuitive design that&apos;s easy to navigate</p>
                 </div>
               </div>
               
